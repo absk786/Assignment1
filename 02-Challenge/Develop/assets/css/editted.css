@@ -22,17 +22,17 @@ p {
     display: inline-block;
     font-size: 48px;
 }
-.header h1 .seo {
+#seo {
     color: #d9dcd6;
 }
-.header nav {
+.navigation {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-.header nav ul li {
+.list {
     display: inline-block;
     margin-left: 25px;
     color: #ffffff;
@@ -121,7 +121,8 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-footer h2 {
+#footerheader {
         font-size: 20px;
 }
 /* footer section */
+
